@@ -7,6 +7,11 @@ body {
     margin: 20px auto;
     font-family: Bahnschrift;
     font-weight: 300;
+    background-color: #212121;
+}
+
+.welcome {
+    background-color: #212121;
 }
 
 form {
@@ -38,7 +43,7 @@ a:hover {
 #loginform {
     margin: 0 auto;
     padding-bottom: 25px;
-    background: #eee;
+    background: #212121;
     width: 600px;
     max-width: 100%;
     border: 2px solid #212121;
@@ -61,7 +66,7 @@ a:hover {
     margin: 0 auto;
     margin-bottom: 25px;
     padding: 10px;
-    background: #fff;
+    background: #212121;
     height: 300px;
     width: 530px;
     border: 1px solid #a7a7a7;
